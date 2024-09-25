@@ -6,6 +6,15 @@ Este proyecto analiza los datos históricos de ventas de videojuegos, con inform
 
 El análisis incluye la preparación, limpieza y transformación de los datos, junto con un examen detallado de las ventas por plataforma y género, las variaciones en diferentes regiones y la influencia de las reseñas en las ventas. Además, se llevan a cabo pruebas de hipótesis para comparar las calificaciones de usuarios entre plataformas y géneros.
 
+## Objetivos
+
+- Identificar patrones de éxito en videojuegos
+- Predecir tendencias de ventas
+- Optimizar campañas publicitarias
+- Analizar el impacto de las reseñas
+- Estudiar diferencias regionales en preferencias de videojuegos
+- Realizar pruebas de hipótesis sobre calificaciones de usuarios:
+
 ## Estructura del Proyecto
 
 1. Preparación de los datos:   
