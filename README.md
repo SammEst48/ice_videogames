@@ -30,6 +30,10 @@ El dataset contiene las siguientes columnas:
 - `user_score`: Puntuación de los usuarios (máximo de 10)
 - `rating`: Clasificación ESRB (por ejemplo, E para todos, T para adolescentes)
 
+## Librerías necesarias
+
+- pandas, matplotlib, scipy (para pruebas estadísticas)
+
 ## Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
