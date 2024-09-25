@@ -43,8 +43,3 @@ El dataset contiene las siguientes columnas:
 
 - pandas, matplotlib, scipy (para pruebas estadísticas)
 
-## Cómo ejecutar el proyecto
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/video-game-sales-analysis.git
