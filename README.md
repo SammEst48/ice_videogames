@@ -4,29 +4,17 @@
 
 Este proyecto analiza los datos históricos de ventas de videojuegos, con información sobre plataformas, géneros, ventas por región, reseñas de usuarios y críticos, y clasificaciones de la ESRB. El objetivo es identificar patrones que permitan predecir qué juegos tienen más éxito y, con esta información, planificar campañas publicitarias eficaces para el año 2017.
 
-El análisis incluye la preparación, limpieza y transformación de los datos, junto con un examen detallado de las ventas por plataforma y género, las variaciones en diferentes regiones y la influencia de las reseñas en las ventas. Además, se llevan a cabo pruebas de hipótesis para comparar las calificaciones de usuarios entre plataformas y géneros.
-
 ## Objetivos
-
+El análisis incluye la preparación, limpieza y transformación de los datos, junto con un examen detallado de las ventas por plataforma y género, las variaciones en diferentes regiones y la influencia de las reseñas en las ventas. Además, se llevan a cabo pruebas de hipótesis para comparar las calificaciones de usuarios entre plataformas y géneros.
 - Identificar patrones de éxito en videojuegos
 - Predecir tendencias de ventas
 - Optimizar campañas publicitarias
 - Analizar el impacto de las reseñas
 - Estudiar diferencias regionales en preferencias de videojuegos
 - Realizar pruebas de hipótesis sobre calificaciones de usuarios:
-
-## Estructura del Proyecto
-
-1. Preparación de los datos:   
-2. Análisis Exploratorio de Datos (EDA):
-3. Análisis de ventas por región:
-4. Pruebas de hipótesis:
-5. Conclusiones:
   
 ## Dataset
-
 El dataset contiene las siguientes columnas:
-
 - `name`: Nombre del juego
 - `platform`: Plataforma en la que se lanzó el juego (por ejemplo, Xbox, PlayStation)
 - `year_of_release`: Año de lanzamiento
@@ -39,7 +27,15 @@ El dataset contiene las siguientes columnas:
 - `user_score`: Puntuación de los usuarios (máximo de 10)
 - `rating`: Clasificación ESRB (por ejemplo, E para todos, T para adolescentes)
 
-## Librerías necesarias
+## Herramientas utilizadas
+- **Python**: pandas, stats (scipy), matplotlib.
+- **Jupyter Notebooks**: para análisis interactivo.
 
-- pandas, matplotlib, scipy (para pruebas estadísticas)
+## Pasos de análisis
+
+## Conclusiones
+
+**Nota**: Este proyecto fue desarrollado como parte de mi formación en el bootcamp de Tripleten en el área de análisis de datos.
+
+## Visualizaciones
 
